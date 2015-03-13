@@ -16,10 +16,10 @@ int main(int argc, char* argv[])
 	int ngrids=4;
 	int* grid_sizes = new int[ngrids];
 	 
-	grid_sizes[0]=np/16;
-	grid_sizes[1]=np/16;
-	grid_sizes[2]=np/16;
-	grid_sizes[3]=np/16;
+	grid_sizes[0]=np/4;
+	grid_sizes[1]=np/4;
+	grid_sizes[2]=np/4;
+	grid_sizes[3]=np/4;
 	
 	int* start_ranks = new int[ngrids];
 	start_ranks[0]=0;
@@ -38,21 +38,25 @@ int main(int argc, char* argv[])
 	int* pgrid3 = new int[grid_dim3];
 	int* pgrid4 = new int[grid_dim4];
     
+	//Grid 1 layout
 	pgrid[0] = 2;
 	pgrid[1] = 2;
 	pgrid[2] = 2;
 	pgrid[3] = 2;
-  
+    
+	//Grid 2 layout  
 	pgrid2[0] = 2;
 	pgrid2[1] = 2;
 	pgrid2[2] = 2;
 	pgrid2[3] = 2;
-	
+    
+	//Grid 3 layout	
 	pgrid3[0] = 2;
 	pgrid3[1] = 2;
 	pgrid3[2] = 2;
 	pgrid3[3] = 2;
-	
+    
+	//Grid 4 layout	
 	pgrid4[0] = 2;
 	pgrid4[1] = 2;
 	pgrid4[2] = 2;
