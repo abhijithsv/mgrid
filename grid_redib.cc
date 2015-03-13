@@ -245,6 +245,7 @@ if(grank>=start && grank<end){
         memcpy(T->index_dimension_map, new_idx_map, dims*sizeof(int));
 	//Update grid
 	T->g=new_grid;
+	T->rank=new_grid->rank;
 if(rank==RRANK && DEBUG_CHECK_POINT) cout << "Rank : "<<rank<<". Redistribute Checkpoint " <<(checkpoint++)<< endl;
         // Recompute index_table
         T->init_index_table();
