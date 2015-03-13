@@ -1,0 +1,37 @@
+/tmp/slurmd/job127815/slurm_script: line 30: [: -eq: unary operator expected
+Tensor vab_oovv initialized
+Redistributing 
+Rank: 15tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Tensor vab_oovv initialized
+Rank: 0tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 10tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 13tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 1tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 14tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 6tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 5tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 11tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 7tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 8tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 12tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 4tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 9tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 2tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Rank: 3tb_vob->num_actual_tiles4	tb_vo->num_actual_tiles4
+The addresses are the same.
+Redistribution  took : 1 seconds

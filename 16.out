@@ -1,0 +1,2201 @@
+O : 16 V : 128
+Initialized first tensor
+Calling Cost function
+<2, 2, 1, 0>  <0, 1>  <2, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 0: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 0, 1, 2>  <3, 2>  <3, 0, 1, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 1: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 2: 
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+
+Contraction 3: 
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 4: 
+Calling Cost function
+<0, 1, 3, 2>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 2, 1, 2>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 5: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 6: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 7: 
+Calling Cost function
+<1, 3, 0, 2>  <3, 2>  <1, 3, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 8: 
+Calling Cost function
+<2, 0, 2, 1>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 9: 
+Calling Cost function
+<3, 1, 0, 2>  <3, 0, 1, 2>  <1, 3, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 10: 
+Calling Cost function
+<3, 1, 0, 2>  <2, 1, 0, 3>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 11: 
+Calling Cost function
+<3, 1, 0, 2>  <1, 2, 0, 3>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+
+Contraction 12: 
+<1, 3, 2, 0>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 13: 
+Calling Cost function
+<3, 2, 0, 1>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 14: 
+Calling Cost function
+<2, 3, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 15: 
+Calling Cost function
+<1, 0, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 16: 
+Calling Cost function
+<0, 1>  <0, 1>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+
+
+Contraction 17: 
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 18: 
+Calling Cost function
+<1, 3, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 19: 
+Calling Cost function
+<2, 3, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 20: 
+Calling Cost function
+<3, 1, 2, 0>  <3, 2>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 21: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 22: 
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 23: 
+Calling Cost function
+<0, 1, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 24: 
+Calling Cost function
+<1, 0, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 25: 
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 26: 
+Calling Cost function
+<0, 1>  <0, 1>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 3, 2, 1>  <3, 0, 1, 2>  <0, 1>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+
+
+Contraction 27: 
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 28: 
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 29: 
+Calling Cost function
+<0, 1, 2, 3>  <3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 30: 
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2, 1, 0>  <3, 2, 0, 1>  <3, 1>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 31: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 32: 
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 33: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 0, 3>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 34: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+
+Contraction 35: 
+<1, 0, 3, 2>  <2, 3, 0, 1>  <1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 36: 
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+
+Contraction 37: 
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <0, 1>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 38: 
+Calling Cost function
+<1, 0>  <1, 0>  <1, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 39: 
+Calling Cost function
+<1, 3, 2, 0>  <3, 2>  <1, 3, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 40: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 41: 
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 0, 2, 1>  <3, 2>  <3, 0, 1, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 42: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 1, 2, 0>  <1, 3, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+
+
+Contraction 43: 
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 0, 2, 1>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 44: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <0, 1>  <2, 0, 3, 1>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 45: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 46: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 47: 
+Calling Cost function
+<2, 0, 2, 1>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 48: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1, 3, 2>  <3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 49: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 50: 
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 51: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 2, 1, 2>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 52: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <0, 1>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 53: 
+Calling Cost function
+<1, 0>  <1, 0>  <1, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 54: 
+Calling Cost function
+<3, 2, 0, 1>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 55: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1, 3, 2>  <2, 3, 1, 0>  <1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 56: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 57: 
+Calling Cost function
+<3, 2, 1, 0>  <3, 2, 0, 1>  <3, 1>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+
+
+Contraction 58: 
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 59: 
+Calling Cost function
+<1, 0>  <1, 0>  <1, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 0, 2>  <3, 2>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 60: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 61: 
+Calling Cost function
+<1, 2, 0, 3>  <2, 3>  <1, 2, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 62: 
+Calling Cost function
+<0, 2, 1, 2>  <1, 0>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 63: 
+Calling Cost function
+<1, 3, 0, 2>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 64: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 65: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 66: 
+Calling Cost function
+<2, 2, 1, 0>  <0, 1>  <2, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 2, 0, 3>  <2, 3>  <1, 2, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 67: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+
+
+Contraction 68: 
+Redistributing C
+Calling Cost function
+
+
+Contraction 69: 
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 70: 
+Calling Cost function
+<1, 3, 2, 0>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 3, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 71: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 72: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 3, 1, 2>  <0, 3, 1, 2>  <0, 1>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 73: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 1, 0, 3>  <2, 3>  <1, 2, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+Index | Symmetry Group | Is Contraction |Index Dimension Map
+ 0                3              0                   0
+ 1                3              0                   3
+ 2                3              0                   1
+ 3                3              0                   2
+
+
+Contraction 74: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 75: 
+Calling Cost function
+<3, 2, 1, 0>  <3, 2, 1, 0>  <3, 2, 1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 76: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 77: 
+Calling Cost function
+<1, 2, 0, 3>  <2, 3>  <1, 2, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+Index | Symmetry Group | Is Contraction |Index Dimension Map
+ 0                3              0                   1
+ 1                3              0                   2
+ 2                3              0                   0
+ 3                3              0                   3
+
+
+Contraction 78: 
+Calling Cost function
+<0, 1, 3, 2>  <1, 0, 3, 2>  <1, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 79: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 80: 
+Calling Cost function
+<1, 0, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 81: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 82: 
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 83: 
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 84: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 85: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 86: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 87: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 88: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 89: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3, 1, 0>  <3, 2, 1, 0>  <2, 3, 1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+
+
+Contraction 90: 
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 91: 
+Calling Cost function
+<2, 2, 1, 0>  <0, 1>  <2, 0>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 92: 
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 93: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 94: 
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 95: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 96: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 97: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 98: 
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 0, 3>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 99: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 100: 
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 101: 
+Calling Cost function
+<1, 0, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 102: 
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3, 1, 0>  <1, 0>  <2, 3, 1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 103: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 104: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 105: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <0, 1>  <0, 1>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 106: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 107: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 3, 0, 2>  <3, 0, 1, 2>  <1, 3, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 108: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 109: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 110: 
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 0, 3>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 111: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 112: 
+Calling Cost function
+<3, 2, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 113: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 114: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 115: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 116: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 117: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1, 2, 2>  <1, 0>  <0, 2>  <4, 4>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 118: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 119: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 120: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 121: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+
+
+Contraction 122: 
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 123: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 124: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 125: 
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 126: 
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 127: 
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 128: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 129: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 130: 
+Calling Cost function
+<3, 2, 0, 1>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 131: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 132: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 133: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 134: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <0, 1, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 135: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 136: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 137: 
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 138: 
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 3, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 139: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 140: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 141: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 142: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <0, 1, 2, 3>  <0, 1, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 143: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 144: 
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 145: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 146: 
+Calling Cost function
+<3, 2, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 3, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 147: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 148: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 149: 
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 150: 
+Calling Cost function
+<3, 1, 2, 0>  <1, 2, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+Calling Cost function
+
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Contraction 151: 
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 152: 
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 153: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 154: 
+Calling Cost function
+<2, 3, 1, 0>  <3, 2, 1, 0>  <2, 3, 1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 155: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 156: 
+Calling Cost function
+<1, 0, 2, 3>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 157: 
+Calling Cost function
+<3, 2, 1, 0>  <1, 0, 2, 3>  <3, 1, 0, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 158: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 159: 
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 160: 
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 161: 
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 162: 
+Calling Cost function
+<1, 3, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<1, 0, 3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 163: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 164: 
+Calling Cost function
+<2, 3, 1, 0>  <1, 0>  <2, 3, 1, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+
+Redistributing A
+
+Contraction 165: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 166: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 167: 
+Calling Cost function
+<1, 0, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 168: 
+Calling Cost function
+<3, 1, 2, 0>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+Calling Cost function
+<1, 3, 0, 2>  <2, 1, 3, 0>  <3, 1, 2, 0>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+
+Redistributing A
+Contraction 169: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<2, 3>  <2, 1, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 170: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 171: 
+Calling Cost function
+<0, 1, 3, 2>  <1, 0, 3, 2>  <1, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+Contraction 172: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 173: 
+Calling Cost function
+<1, 0, 3, 2>  <3, 2>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 174: 
+Calling Cost function
+<0, 1, 3, 2>  <0, 1>  <1, 0, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+<0, 1>  <0, 1, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+Contraction 175: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 176: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+
+<1, 0, 3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+Contraction 177: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 178: 
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+Calling Cost function
+<0, 1>  <1, 0, 3, 2>  <0, 1, 3, 2>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+
+Contraction 179: 
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+Calling Cost function
+<3, 2>  <1, 0, 2, 3>  <1, 0, 2, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+
+
+Contraction 180: 
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Contraction 181: 
+Calling Cost function
+<2, 3>  <1, 2, 0, 3>  <2, 1, 0, 3>  <2, 2, 2, 2>  Returned from bestCost function
+Creating new Grid
+Redistributing A
+Redistributing A Completed
+Redistributing B
+Redistributing B initialized
+Redistributing B Completed
+Redistributing C
+
+
+Total CAST CCSD Time = 0 seconds
