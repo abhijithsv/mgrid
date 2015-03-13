@@ -202,9 +202,38 @@ int* pgrid2 = new int[grid_dim];
 		
 	//{
 	 Grid* grid2 = new Grid(grid_dim, pgrid2,new_comm[1],1,ngrids,grid_sizes);
-   GridRedistribute* Credib = new GridRedistribute(C,idmap_B,grid2);
-	Credib->redistribute();	
-    
+   GridRedistribute* Aredib = new GridRedistribute(A,idmap_A,grid2);
+   GridRedistribute* Bredib = new GridRedistribute(B,idmap_B,grid2);
+	Aredib->redistribute();	
+    Bredib->redistribute();
+int* size_C2 = new int[4];
+    int* block_grid_C2 = new int[4];
+    int* idmap_C2 = new int[4];
+
+    size_C2[0] = size;
+    size_C2[1] = size;
+    size_C2[2] = size;
+    size_C2[3] = size;
+
+    block_grid_C2[0] = block_grid;
+    block_grid_C2[1] = block_grid;
+    block_grid_C2[2] = block_grid;
+    block_grid_C2[3] = block_grid;
+
+    idmap_C2[0] = 0;
+    idmap_C2[1] = 1;
+    idmap_C2[2] = 2;
+    idmap_C2[3] = 3;
+
+    Tensor* C2 = new Tensor("cccc", idmap_C2, size_C2, block_grid_C2, grid2);
+    C2->initialize();
+
+    if(rank == 16) cout<<"Tensor C2 initialized"<<endl;
+
+    //double time =0.0;
+    if(rank==16) cout<<"C [a,b,m,n ] = A [a,b,k,l ] x B [m,n,k,l ]"<<endl;
+    Contraction* C02 = new Contraction(A, B, C2, grid2);
+	
 	/*
 	 int* size_A2 = new int[4];
     int* block_grid_A2 = new int[4];

@@ -186,7 +186,8 @@ void GridRedistribute::redistribute()
 	if(rank==RRANK && DEBUG_CHECK_POINT) cout << "Rank : "<<rank<<". Redistribute Checkpoint " <<(checkpoint++)<< endl; 
 
         T->num_actual_tiles = block_count;
-	if(rank==RRANK && DEBUG_CHECK_POINT) cout << "Rank : "<<rank<<". Redistribute Checkpoint " <<(checkpoint++)<<"T->num_actual_tiles"<<T->num_actual_tiles<< endl; 
+	if(rank==RRANK && DEBUG_CHECK_POINT) cout << "Rank : "<<rank<<". Redistribute Checkpoint " <<(checkpoint++)<<"T->num_actual_tiles"<<T->num_actual_tiles<< endl;
+
         delete[] T->tensor_tiles;
         delete[] T->tile_address;
         T->tensor_tiles = new double[T->block_size * block_count+1];

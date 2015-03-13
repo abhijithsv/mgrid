@@ -313,6 +313,8 @@ namespace RRR{
     void Tensor::initialize()
     {
 		init_index_table();
+		tensor_tiles = new double[1];
+	tile_address = new int [1];
 		int start=0,end,grank;
 	for(int i=0;i<g->grid_id;i++) start+=g->all_grids[i]; end=start+g->all_grids[g->grid_id];
 	MPI_Comm_rank(MPI_COMM_WORLD,&grank);
@@ -320,6 +322,8 @@ namespace RRR{
 	
 	num_max_tiles = compute_num_max_tiles_rect(index_dimension_map, pgrid);
 
+	delete[] tensor_tiles;
+        delete[] tile_address;
 	// Initialize tile data and addresses
 	tensor_tiles = new double[block_size * num_max_tiles];
 	tile_address = new int [dims*num_max_tiles];
