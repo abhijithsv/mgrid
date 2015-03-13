@@ -51,13 +51,13 @@ ifdef TIMER
 	FLAGS+=-DTIMER=$(TIMER)
 endif
 
-MAIN = grid_redistribute_test
+MAIN = sgrid
 LINK = $(CC)
 
-EXE = grid_redistribute_test.x
+EXE = sgrid.x
 OBJS_DLTC = DLTC/dltc_tensor.o DLTC/compute.o DLTC/transp-kernel-omp.o DLTC/exec.o DLTC/ccd-t2.o DLTC/ccsd-t1.o DLTC/ccsd-t2.o DLTC/task.o DLTC/expr.o DLTC/loops.o DLTC/profiler.o DLTC/cache.o DLTC/transp.o DLTC/main.o
 
-OBJS_RRR = tensor.o redistribute.o grid_redib.o cost.o contraction.o helper.o transpose_helper.o localcontract.o block_grid.o grid.o correct.o rect_instigation.o grid_redistribute_test.o
+OBJS_RRR = tensor.o redistribute.o grid_redib.o cost.o contraction.o helper.o transpose_helper.o localcontract.o block_grid.o grid.o correct.o rect_instigation.o sgrid.o
 
 
 
